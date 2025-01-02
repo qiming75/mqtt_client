@@ -1,7 +1,7 @@
 {
     "tenantID": "0145c22c",
     "deviceType": "Mac",
-    "joinaddress": "http://mqapi.gwdata.tech/docking/iot/join",
+    "joinaddress": "http://123.abc/join",
     "errorinfotopic": "errorinfo",
     "keepalive": 10,
     "pingtimeout": 5,
