@@ -1,6 +1,6 @@
 {
     "tenantID": "0145c22c",
-    "deviceType": "Mac",
+    "deviceType": "box",
     "joinaddress": "http://123.abc/join",
     "errorinfotopic": "errorinfo",
     "keepalive": 10,
